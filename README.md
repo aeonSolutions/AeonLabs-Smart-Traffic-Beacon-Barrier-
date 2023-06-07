@@ -33,6 +33,16 @@ Retrofitting of flexible road beacons suing smart ultra low paowered smart elect
 <br>
 <br>
 
+## Parts List
+
+- [6v Solar Panel](https://s.click.aliexpress.com/e/_Dm0lRu5)
+- [Road Crossing Signs](https://s.click.aliexpress.com/e/_DE5upGl)
+- [LiPo Battery](https://s.click.aliexpress.com/e/_DE1VARJ)
+- The PCB electronics on this repository (soon. Stay tuned. )
+
+<br>
+<br>
+
 ## What one additionally needs
 - [USB to UART/USB TTL firmware burner for 5V and 3.3V MCUs ](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/DIY-Maker/README.md) 
 <br />
